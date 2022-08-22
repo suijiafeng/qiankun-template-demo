@@ -1,4 +1,4 @@
-# 代码的代码来源 https://github.com/xushanpei/qiankun_template
+# 代码来源自： https://github.com/xushanpei/qiankun_template
 
 ## 介绍 qiankun
 
