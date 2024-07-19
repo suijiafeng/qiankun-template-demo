@@ -1,5 +1,3 @@
-# 代码来源自： https://github.com/xushanpei/qiankun_template
-
 ## 介绍 qiankun
 
 > 在正式介绍 qiankun 之前，我们需要知道，qiankun 是一个基于 [single-spa](https://github.com/CanopyTax/single-spa) 的[微前端](https://micro-frontends.org/)实现库，旨在帮助大家能更简单、无痛的构建一个生产可用微前端架构系统。
